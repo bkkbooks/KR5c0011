@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0011/krp/v1/juan/0
+seq: 0
+front:
+  text: 七經同卷傷四
+  hash: sha256:710d2884d8261d8aaf3b9d83d23d3c88fdd01dc2e671f93abaff2c2ce6e7d748
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0011_HFL_000-001a, image: hfl/0341/0341-141.png}
+body:
+  text: 太上老君說救生真經太上老君說消災經太上太清天童護命妙經太上太清皇老帝君運雷天童隱梵仙經太上老君說安宅八陽經太上老君說補謝八陽經太上說十錬生神救護經太上老君說救生真經爾時太上老君與八千徒衆在紫微宫中琉璃七寶殿上廣說妙法讃歎世間中國男子女人光如日月持齊存念真經所有非災橫禍盡乞消除廣布受生延年益算千𡨚和釋萬惡潜藏災害不生禍亂不作罪障消沉福祥臻集爾時太上老君敕令六甲六丁守護受經之人常使永無殃咎疾病不侵四時平善八節康寧盜賊潜藏妖怪伏匿念誦此經一七偏至二七遍乃至三七遍功德無量慕道皆成常令耳目聰明身强體輕爾時太上老君說此真經救生保命永無災障生生過道世世逢真若能抄寫此經受持供養永保平安夀算延長咸仰皈依信受奉行太上老君說救生真經
+  hash: sha256:949d569eb8f886d770166a9e18914013fa42dd9386b0abad4a0811442e10fccb
+metadata:
+  title: 太上老君說救生真經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:16:40.568097'
+  source:
+    repository: kanripo
+    path: KR5c0011/KR5c0011_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:4a64b196112566cb6576173bd3ce51f05cf803547ae33edfd929198474f89ef7

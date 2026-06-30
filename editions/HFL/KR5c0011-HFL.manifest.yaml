@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5c0011/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5c0011/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君說救生真經
+  date: '2015-08-29 00:16:40.568097'
+  source:
+    repository: kanripo
+    path: KR5c0011
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0011_000-HFL.yaml, hash: 'sha256:818684089fe43e4075833cd7f55859d0950727ec0f8b2567f7a4b96eb9381657'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0011_000-HFL.markers.yaml, hash: 'sha256:5e0882e8f55150caa4275892fa75bfd4c2d8d8c50a7f46380ecc2fe9a4969d0d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0011_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 309
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:deeaf6c2abe5ed7c0e52df580eab2f4006959c227f2737cc27e1f768d06ed6c7

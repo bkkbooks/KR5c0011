@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5c0011/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0011/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君說救生真經
+  date: '2015-08-29 00:16:40.568097'
+  source:
+    repository: kanripo
+    path: KR5c0011
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0011_000-ZTDZ.yaml, hash: 'sha256:68e8fde9807c10f71f7e850b4ec5efbdb6ce90e611a609103de2d9f04f6962bd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0011_000-ZTDZ.markers.yaml, hash: 'sha256:4e1c5569fcbe4242c4f07ef7ee4968ec07470814547fb4d06a3be0fb698270af'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0011_SJB_000-110366c
+    span:
+    - body
+    - 0
+    - 309
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:62a45385e06889f8ffba5774e3010e35e16c71c5118475fb8a4500fb10edfae5
